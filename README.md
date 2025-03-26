@@ -46,7 +46,7 @@
     <p>Te pido perdón desde lo más profundo de mi corazón. Eres la persona más importante en mi vida y no soportaría verte sufrir por mi culpa. Estoy dispuesto a hacer lo que sea necesario para recuperar tu confianza y demostrarte que puedo ser la persona que mereces.</p>
     <p>Entiendo que el enojo y la tristeza son parte del proceso, y me comprometo a aprender de este error para no volver a lastimarte. Por favor, dame la oportunidad de enmendar mi error y de mostrarte cuánto te amo.</p>
     <p>Con todo mi amor y esperanza,</p>
-    <p class="signature">[Tu Nombre]</p>
+    <p class="signature">[jhoel]</p>
   </div>
 </body>
 </html>
